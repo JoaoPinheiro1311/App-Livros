@@ -40,3 +40,7 @@ Os livros ficam armazenados localmente na base de dados do dispositivo, sendo ne
 - **Corotinas** - Para operações assincronas
 - **OkHttp + Gson** - Para fazer chamadas à API
 - **Coil** - Para carregar imagens online
+
+## Limitações conhecidas
+
+**API de pesquisa**: A API externa utilizada tem um limite de 100 requests por mês.
